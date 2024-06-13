@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a cybersecurity student and researcher.  I am currently in my 3rd year of engineering from VIT Bhopal University.<br>I am also a full stack developer and coder,  i love to solve problems with technology. <br>I am always curious and eager to learn, my security reports have helped organizations like US DoE (United States Department of Energy), Indian Army, Indian Airforce, VIT Bhopal.<br>I enjoy red teaming a lot and currently developing skills for the post exploitation using C2 infrastructre.<br>A little Fun Fact: Most servers are prone to get attacked due to misconfiguration rather than improper authentication or authorization.<br>
+I am a cybersecurity student and researcher.  I am currently in my 3rd year of engineering.<br> i love to solve problems with technology. <br>I am always curious and eager to learn, my security reports have helped organizations like US DoE (United States Department of Energy), Indian Army, Indian Airforce, VIT Bhopal.<br>I enjoy red teaming a lot and currently developing skills for the post exploitation using C2 infrastructre.<br>A little Fun Fact: Most servers are prone to get attacked due to misconfiguration rather than improper authentication or authorization.<br>
 
 
 ## 🌐 Socials:
